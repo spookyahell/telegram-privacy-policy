@@ -1,5 +1,5 @@
 # telegram-privacy-policy
-Format <code>JSON formatted (custom format)<code>
+Format <code>JSON formatted (custom format)</code>
 
 Personally I believe this could have any license whatsoever because I don't think you can claim rights on privacy policy documents.
 <br>That would be a case that would be lost in front of any court. Presumably. Public documents. Documents available to an entire nation.
