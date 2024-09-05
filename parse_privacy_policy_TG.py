@@ -1,4 +1,7 @@
-''You'll need to download a copy from somewhere and give it a path via a seperate file for now since downloading a new copy isn't handled'''
+'''You'll need to download a copy from somewhere and give it a path via a seperate file for now since downloading a new copy isn't handled'''
+
+'''Standard MIT open source software license (may request other licenses if required for whatever weird reason)'''
+
 
 import json, re
 from os import sep
